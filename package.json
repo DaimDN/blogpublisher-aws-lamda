@@ -4,7 +4,10 @@
     "version": "0.0.1",
     "private": true,
     "dependencies": {
-        "aws-sdk": "^2.660.0"
+        "aws-sdk": "^2.660.0",
+        "aws-cdk-lib": "^2.0.0",
+        "@aws-cdk/aws-codestar-alpha": "2.0.0-alpha.1",
+        "constructs": "^10.0.0"
     },
     "devDependencies": {
         "jest": "^25.4.0"
